@@ -1,9 +1,9 @@
 {
   "language": "vi",
   "prefix": "!",
-  "adminConfig": [],
+  "adminBotID": [],
   "autoClean": true,
-  "account": [
+  "fcaookies": [
     {
       "key": "datr",
       "value": "_WyxaZw-19sZ70c1tPhKh_u1",
