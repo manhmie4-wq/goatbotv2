@@ -1,7 +1,7 @@
 {
   "language": "vi",
   "prefix": "!",
-  "adminBot": [61576003594403],
+  "adminConfig": [],
   "autoClean": true,
   "account": [
     {
@@ -114,4 +114,3 @@
     }
   ]
 }
-
