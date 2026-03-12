@@ -1,9 +1,11 @@
 {
   "language": "vi",
   "prefix": "!",
-  "adminBotID": [],
+  "adminBot": [61576003594403],
   "autoClean": true,
-  "fcaookies": [
+  "developerMode": false,
+  "nickNameBot": "Dê Bot",
+  "account": [
     {
       "key": "datr",
       "value": "_WyxaZw-19sZ70c1tPhKh_u1",
@@ -77,35 +79,8 @@
       "lastAccessed": "2026-03-12T05:39:56.116Z"
     },
     {
-      "key": "vpd",
-      "value": "v1%3B786x412x2.101494073867798",
-      "domain": "facebook.com",
-      "path": "/",
-      "hostOnly": false,
-      "creation": "2026-03-12T05:39:56.116Z",
-      "lastAccessed": "2026-03-12T05:39:56.116Z"
-    },
-    {
       "key": "fr",
       "value": "0bJCfV6zFSNabRdJc.AWfxneB6bM2bIzPM6J1D9tYrEsL8iNWlYQ88nURJTXEfZt2Mi7E.BpsWz9..AAA.0.0.BpslGj.AWcBZDecEY4kcOZXFxZD8ENkcpU",
-      "domain": "facebook.com",
-      "path": "/",
-      "hostOnly": false,
-      "creation": "2026-03-12T05:39:56.116Z",
-      "lastAccessed": "2026-03-12T05:39:56.116Z"
-    },
-    {
-      "key": "fbl_st",
-      "value": "101523523%3BT%3A29554899",
-      "domain": "facebook.com",
-      "path": "/",
-      "hostOnly": false,
-      "creation": "2026-03-12T05:39:56.116Z",
-      "lastAccessed": "2026-03-12T05:39:56.116Z"
-    },
-    {
-      "key": "wl_cbv",
-      "value": "v2%3Bclient_version%3A3109%3Btimestamp%3A1773293987",
       "domain": "facebook.com",
       "path": "/",
       "hostOnly": false,
