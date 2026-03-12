@@ -1,10 +1,10 @@
 {
   "language": "vi",
   "prefix": "!",
-  "adminBot": [61576003594403],
+  "adminBot": [
+    "61576003594403"
+  ],
   "autoClean": true,
-  "developerMode": false,
-  "nickNameBot": "Dê Bot",
   "account": [
     {
       "key": "datr",
@@ -25,24 +25,6 @@
       "lastAccessed": "2026-03-12T05:39:56.116Z"
     },
     {
-      "key": "ps_l",
-      "value": "1",
-      "domain": "facebook.com",
-      "path": "/",
-      "hostOnly": false,
-      "creation": "2026-03-12T05:39:56.116Z",
-      "lastAccessed": "2026-03-12T05:39:56.116Z"
-    },
-    {
-      "key": "ps_n",
-      "value": "1",
-      "domain": "facebook.com",
-      "path": "/",
-      "hostOnly": false,
-      "creation": "2026-03-12T05:39:56.116Z",
-      "lastAccessed": "2026-03-12T05:39:56.116Z"
-    },
-    {
       "key": "c_user",
       "value": "61576003594403",
       "domain": "facebook.com",
@@ -54,24 +36,6 @@
     {
       "key": "xs",
       "value": "36%3Aawbp8laDgQ3Biw%3A2%3A1773235885%3A-1%3A-1",
-      "domain": "facebook.com",
-      "path": "/",
-      "hostOnly": false,
-      "creation": "2026-03-12T05:39:56.116Z",
-      "lastAccessed": "2026-03-12T05:39:56.116Z"
-    },
-    {
-      "key": "locale",
-      "value": "vi_VN",
-      "domain": "facebook.com",
-      "path": "/",
-      "hostOnly": false,
-      "creation": "2026-03-12T05:39:56.116Z",
-      "lastAccessed": "2026-03-12T05:39:56.116Z"
-    },
-    {
-      "key": "pas",
-      "value": "61576003594403%3AsP2Py5ubXM",
       "domain": "facebook.com",
       "path": "/",
       "hostOnly": false,
